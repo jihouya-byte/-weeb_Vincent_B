@@ -17,13 +17,6 @@ export default function Header() {
                 href="#"
                 className="text-sm text-muted hover:bg-primary-hover p-2 rounded-2xl"
               >
-                About Us
-              </a>
-
-              <a
-                href="#"
-                className="text-sm text-muted hover:bg-primary-hover p-2 rounded-2xl"
-              >
                 Contact
               </a>
             </nav>
@@ -34,14 +27,14 @@ export default function Header() {
               href="#"
               className="text-sm text-muted hover:bg-primary-hover p-2 rounded-2xl"
             >
-              Log In
+              Connexion
             </a>
 
             <a
               href="#"
               className="rounded-md bg-primary px-6 py-3 text-sm font-semibold text-muted hover:bg-primary-hover"
             >
-              Join Now
+              Nous rejoindre
             </a>
           </div>
 

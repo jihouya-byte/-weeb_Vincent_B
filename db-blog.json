@@ -1,6 +1,13 @@
 {
-    "articles":[
+  "articles": [
     {
-        "title": "test"
-    }]
+      "title": "test"
+    }
+  ],
+  "userMe": [
+    {
+      "role": [],
+      "name": "test"
+    }
+  ]
 }
