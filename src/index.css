@@ -1,2 +1,26 @@
 @import "tailwindcss";
 @import "./reset.css";
+
+@theme {
+  /* c principale : boutons, liens importants */
+  --color-primary: #9333ea;
+  --color-primary-hover: #7e22ce;
+  --color-primary-light: #c084fc;
+
+  /* Background */
+  --color-background: #0f172a;
+  --color-surface: #171f33;
+  --color-surface-light: #1e293b;
+
+  /* Texte */
+  --color-foreground: #f8fafc;
+  --color-muted: #cbd5e1;
+
+  /* Pages et sections claires */
+  --color-background-light: #f8fafc;
+  --color-foreground-dark: #0f172a;
+
+  /* Bordures */
+  --color-border: #334155;
+  --color-border-primary: #7e3faf;
+}
