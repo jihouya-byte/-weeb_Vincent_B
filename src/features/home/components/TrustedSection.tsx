@@ -1,9 +1,9 @@
 const TrustedSection = () => {
   return (
-    <div className="bg-background text-foreground mx-auto">
+    <section className="bg-background text-foreground px-4 py-12">
       <div className="mx-auto max-w-250 text-center">
         <h1 className="text-4xl">Ils nous font confinace</h1>
-        <div className="flex justify-between mt-9">
+        <div className="mt-9 flex flex-wrap justify-center gap-8 md:justify-between">
           <div className="mt-8 flex items-center justify-center gap-2">
             <img
               src="../../../../public/home/smartfinder.svg"
@@ -32,7 +32,7 @@ const TrustedSection = () => {
           </div>
         </div>
       </div>
-    </div>
+    </section>
   );
 };
 

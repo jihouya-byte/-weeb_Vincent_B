@@ -1,7 +1,7 @@
 const TrendsSection = () => {
   return (
     <div className="bg-background">
-      <div className="mx-auto max-w-350 text-foreground flex justify-around">
+      <div className="mx-auto flex max-w-350 flex-col items-center gap-10 px-4 text-foreground md:flex-row">
         <div>
           <img
             src="../../../../public/home/trends-section.svg"

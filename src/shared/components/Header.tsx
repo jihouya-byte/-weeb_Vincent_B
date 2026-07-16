@@ -56,22 +56,18 @@ export default function Header() {
         {menuOpen && (
           <nav className="mt-5 flex flex-col gap-4 pt-5 md:hidden">
             <a href="#" className="text-sm text-muted">
-              About Us
-            </a>
-
-            <a href="#" className="text-sm text-muted">
               Contact
             </a>
 
             <a href="#" className="text-sm text-muted">
-              Log In
+              Se connecter
             </a>
 
             <a
               href="#"
               className="rounded-md bg-primary px-5 py-3 text-center text-sm font-semibold text-foreground"
             >
-              Join Now
+              Nous rejoindre
             </a>
           </nav>
         )}
