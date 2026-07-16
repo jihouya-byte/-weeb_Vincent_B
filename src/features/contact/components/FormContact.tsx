@@ -15,7 +15,7 @@ const FormContact = () => {
   };
 
   return (
-    <section className="border-b-2 bg-background px-4 py-10 md:py-16">
+    <section className="bg-background px-4 py-10 md:py-16">
       <form
         onSubmit={handleSubmit}
         className="mx-auto w-full max-w-138 rounded-2xl border border-border-primary bg-background-form px-6 py-6 text-primary-light shadow-lg md:px-10"

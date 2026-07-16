@@ -14,7 +14,7 @@ export default function Header() {
 
             <nav className="hidden items-center gap-8 md:flex">
               <a
-                href="#"
+                href="/contact"
                 className="text-sm text-muted hover:bg-primary-hover p-2 rounded-2xl"
               >
                 Contact
@@ -55,7 +55,7 @@ export default function Header() {
 
         {menuOpen && (
           <nav className="mt-5 flex flex-col gap-4 pt-5 md:hidden">
-            <a href="#" className="text-sm text-muted">
+            <a href="/contact" className="text-sm text-muted">
               Contact
             </a>
 
