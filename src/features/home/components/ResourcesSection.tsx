@@ -12,7 +12,7 @@ const ResourcesSection = () => {
             cherchant à approfondir vos connaissances, nous vous proposons des
             tutoriels, guides et bonnes pratiques pour apprendre efficacement.
           </p>
-          <a href="">Explorer les ressources </a>
+          <a href="#">Explorer les ressources </a>
         </div>
         <div>
           <img
