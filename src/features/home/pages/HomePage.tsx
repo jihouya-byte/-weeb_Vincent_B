@@ -1,3 +1,4 @@
+import Footer from "../../../shared/components/Footer";
 import Header from "../../../shared/components/Header";
 import HeroSection from "../components/HeroSection";
 import ResourcesSection from "../components/ResourcesSection";
@@ -12,6 +13,7 @@ const HomePage = () => {
       <TrustedSection />
       <ResourcesSection />
       <TrendsSection />
+      <Footer />
     </div>
   );
 };
