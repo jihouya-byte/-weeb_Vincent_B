@@ -6,7 +6,7 @@ import TrustedSection from "../components/TrustedSection";
 
 const HomePage = () => {
   return (
-    <div>
+    <div className="bg-background space-y-44">
       <Header />
       <HeroSection />
       <TrustedSection />

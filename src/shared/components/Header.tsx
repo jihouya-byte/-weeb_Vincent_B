@@ -4,7 +4,7 @@ export default function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (
-    <header className="bg-background py-4">
+    <header className="bg-background">
       <div className="mx-auto max-w-250 rounded-[20px] bg-surface px-6 py-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-12">

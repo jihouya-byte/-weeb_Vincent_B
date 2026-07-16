@@ -1,6 +1,6 @@
 const HeroSection = () => {
   return (
-    <section className="bg-background px-4 py-16">
+    <section className="bg-background">
       <div className="mx-auto flex max-w-250 flex-col items-center text-center">
         <h1 className="max-w-200 text-4xl font-bold text-foreground md:text-6xl">
           Explorez le <span className="text-primary-light">Web</span> sous
