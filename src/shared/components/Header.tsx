@@ -24,7 +24,7 @@ export default function Header() {
 
           <div className="hidden items-center gap-8 md:flex">
             <a
-              href="#"
+              href="login"
               className="text-sm text-muted hover:bg-primary-hover p-2 rounded-2xl"
             >
               Connexion
