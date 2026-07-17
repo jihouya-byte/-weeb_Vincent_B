@@ -31,7 +31,7 @@ export default function Header() {
             </a>
 
             <a
-              href="#"
+              href="se connecter"
               className="rounded-md bg-primary px-6 py-3 text-sm font-semibold text-muted hover:bg-primary-hover"
             >
               Nous rejoindre
@@ -59,12 +59,12 @@ export default function Header() {
               Contact
             </a>
 
-            <a href="#" className="text-sm text-muted">
+            <a href="/login" className="text-sm text-muted">
               Se connecter
             </a>
 
             <a
-              href="#"
+              href="/login"
               className="rounded-md bg-primary px-5 py-3 text-center text-sm font-semibold text-foreground"
             >
               Nous rejoindre
